@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "namespace": "summer_olympics.ioc.london.olympians",
+  "name": "ioc.london.olympians",
+  "version": "1",
+  "fields": [
+    { "name": "first_name", "type": "string", "doc": "First Name of Athlete" },
+    { "name": "last_name", "type": "string", "doc": "Last Name of Athlete" },
+    { "name": "sport", "type": "string", "doc": "Sport that they play" },
+    { "name": "nation", "type": "string", "default": "unattached","doc": "The nation the olympian represents" }
+  ]
+}
