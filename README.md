@@ -1,5 +1,5 @@
 # KafkaStreamsStatelessTransformations
-Produced this in the Confluent Platform
+Produced this in the Confluent Platform or as a Kafka Producer CLI/. READM.md is tbd
 
 {
 	"first_name": "Jordan",
